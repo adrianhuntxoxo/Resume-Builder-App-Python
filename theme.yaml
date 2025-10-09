@@ -1,0 +1,35 @@
+page_size: LETTER
+margins_in:
+  left: 0.7
+  right: 0.7
+  top: 0.7
+  bottom: 0.7
+fonts:
+  base: Helvetica
+  bold: Helvetica-Bold
+  prefer_ttf: false
+  ttf_regular: Inter-Regular.ttf
+  ttf_bold: Inter-Bold.ttf
+colors:
+  accent_hex: '#000000'
+  text_hex: '#000000'
+  muted_hex: '#444444'
+sizes:
+  h1: 18
+  h2: 12
+  body: 10.5
+  meta: 9.5
+  leading_adjust: 2
+section_order:
+- header
+- summary
+- education
+- skills
+- experience
+- certifications
+labels:
+  summary: SUMMARY
+  skills: SKILLS AND SOFTWARE PROFICIENCIES
+  experience: RELEVANT EXPERIENCES
+  education: EDUCATION
+  certifications: CERTIFICATIONS

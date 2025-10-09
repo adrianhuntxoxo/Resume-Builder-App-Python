@@ -1,0 +1,43 @@
+name: Full Name
+title: ''
+email: xyz@email.com
+phone: 123-456-7869
+location: Dallas, TX
+summary: Summary goes here
+education:
+- school: Embry-Riddle Aeronautical University
+  grad: December 2025
+  location: Daytona Beach, Florida
+  degree: Master of Science, Management Information Systems
+- school: University of Arkansas at Pine Bluff
+  grad: Dec 2015
+  location: Pine Bluff, AR
+  degree: Bachelor of Science, Computer Science
+skills:
+- SKILL 1
+- SKILL 2
+- SKILL 3
+- SKILL 4
+- SKILL 5
+- SKILL 6
+experience:
+- company: Name of Organization
+  role: Technical Account Manager
+  dates: July 2024 - December 2024
+  location: San Francisco, CA
+  bullets:
+  - Contributed to Sales initiatives by providing technical expertise during ad hoc
+    calls and through internal chat, addressing partner inquiries and helping drive
+    deal closure
+- company: Name of Organization
+  role: Software Engineer I
+  dates: June 2016 - Sept 2018
+  location: Collierville, TN
+  bullets:
+  - "Played a pivotal role as a Software Engineer in the Adobe Experience Manager\
+    \ US site integration modernization initiative, collaborating with Marketing and\
+    \ IT teams, resulting in a record-breaking 93.7% increase in enrollments for FedEx\
+    \ Delivery Manager\xAE compared to Fiscal Year 17."
+certifications:
+- "SAFe\xAE 4 Practitioner - Scaled Agile, Inc"
+- AWS Cloud Practitioner, in progress
